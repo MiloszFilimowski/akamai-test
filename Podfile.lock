@@ -1,0 +1,16 @@
+PODS:
+  - AmpCore (9.1.1)
+
+DEPENDENCIES:
+  - AmpCore (= 9.1.1)
+
+SPEC REPOS:
+  trunk:
+    - AmpCore
+
+SPEC CHECKSUMS:
+  AmpCore: 1d5c6a1b514d9cf438aea288f1e152b4e1b7ace2
+
+PODFILE CHECKSUM: 54b721aa717d19aef0a48e95ee2ddf9dbc08a0b9
+
+COCOAPODS: 1.10.1
